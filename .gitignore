@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Kivy
+*.kv
+*.log
+
+# Virtual environment
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Google credentials
+*.json
+
+# Local report
+sales_summary.csv
